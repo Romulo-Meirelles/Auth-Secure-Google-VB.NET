@@ -1,0 +1,97 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SecureAuth
+</name>
+</assembly>
+<members>
+<member name="P:Secure_Auth.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Secure_Auth.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Secure_Auth.My.Resources.Resources.Add_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Secure_Auth.My.Resources.Resources.Backup_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Secure_Auth.My.Resources.Resources.close_window_Green_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Secure_Auth.My.Resources.Resources.configuration_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Secure_Auth.My.Resources.Resources.Edit_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Secure_Auth.My.Resources.Resources.Exclude_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Secure_Auth.My.Resources.Resources.Google_Authenticator_48x48">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Secure_Auth.My.Resources.Resources.hide_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Secure_Auth.My.Resources.Resources.information">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Secure_Auth.My.Resources.Resources.Information_48x48">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Secure_Auth.My.Resources.Resources.QRCODE_48x48">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Secure_Auth.My.Resources.Resources.Restore_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Secure_Auth.My.Resources.Resources.restore_window_Green_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Secure_Auth.My.Resources.Resources.search_24x24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:Secure_Auth.My.Resources.Resources.Warning_48x48">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Secure_Auth.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:Secure_Auth.DrawHelpers">
+	<summary>
+ Visual Studio GDI+ Theme
+ Creator: Xertz (HF)
+ Version: 1.1
+ Control Count: 11
+ Date Created: 11/5/2014
+ Date Changed: 11/6/2014
+ UID: 1602992
+ Email: xertzstudio@gmail.com
+ For any bugs / errors, PM me.
+ </summary>
+	<remarks></remarks>
+</member>
+</members>
+</doc>
